@@ -19,7 +19,7 @@ const App = () => {
   }, []);
 
   return (
-    <div className='min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 t0-black text-white overflow-hidden'>
+    <div className='min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white overflow-hidden'>
       <div className='fixed inset-0 overflow-hidden pointer-events-none'>
         <div className='absolute w-96 h-96 bg-blue-500/10 rounded-full blur-3xl animate-pulse'
         style={{
