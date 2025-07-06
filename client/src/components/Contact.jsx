@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <section id='contact' className='py-20 px-4 bg-gray-900/50'>
         <div className='max-w-4xl mx-auto text-center'>
-            <h2 className='text-4xl md:text-5xl font-bold p-3 mb-8 bg-gradient-to-r fromp-blue-400 to-purple-400 bg-clip-text text-transparent'>
+            <h2 className='text-4xl md:text-5xl font-bold p-3 mb-8 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent'>
                 Let's Work Together
             </h2>
             <p className='text-xl text-gray-300 mb-12'>
