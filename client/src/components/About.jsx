@@ -9,7 +9,7 @@ const About = () => {
                 About Me
             </h2>
             <div className='grid md:grid-cols-2 gap-20 items-center px-10'>
-                <div className='space-y-6 scroll-animate'>
+                <div className='space-y-6'>
                     <p className='text-lg tetx-gray-300 leading-relaxed'>
                         I'm a passionate and detail-oriented IT undergraduate with a specialization in full-stack web and mobile development.
                         I’ve turned my academic foundation into practical experience through building real-world applications that blend strong UI/UX principles, modern frameworks, and AI technologies.
